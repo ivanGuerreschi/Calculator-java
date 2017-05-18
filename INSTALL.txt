@@ -1,0 +1,20 @@
+English
+
+The program does not require installation, but runs as a java jar file from by clicking on it or by right-mause open with java Runtime
+
+Italiano
+
+Il programma non richiede l'installazione, ma viene eseguito come un file jar da java cliccandoci sopra o facendo tasto destro del mause apri con java Runtime 
+
+Español
+
+El programa no requiere instalación, pero se ejecuta como un archivo jar java haciendo clic en él o mediante el botón derecho del mause abierto con Java Runtime
+
+
+Français
+
+Le programme ne nécessite pas d'installation, mais fonctionne comme un fichier jar java de en cliquant dessus ou en droit mause ouvert avec Java Runtime
+
+Deutsch
+
+Das Programm erfordert keine Installation, sondern läuft als Java-jar-Datei aus, indem Sie darauf klicken oder mit der rechten Mause mit Java Runtime geöffnet

@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 05 17:04:53 CET 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=Calcolatrice .jar
+manifest.mergeall=true
+manifest.mainclass=calcolatrice.Calcolatrice
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
